@@ -2,8 +2,8 @@ import Image from 'next/image';
 
 function Footer() {
   return (
-    <div className='bg-[#f2f5f9] py-0 sm:py-32'>
-      <footer className='max-w-4xl footer text-[#070707] p-10 flex flex-col md:flex-row md:justify-center md:items-center mx-auto'>
+    <div className='bg-[#f2f5f9]'>
+      <footer className='max-w-4xl footer text-[#070707] p-10 sm:p-4 flex flex-col md:flex-row md:justify-center md:items-start mx-auto'>
         <aside className='md:mr-20'>
           <div className='mb-4'>
             <Image
@@ -19,6 +19,11 @@ function Footer() {
             Discover how Arnava can enhance maritime operations through
             streamlined procurement, advanced sensor system and software
             integration.
+          </p>
+          <p className='w-60 md:w-full mt-4 font-semibold'>
+            Gedung Ad Premier Office Park Lt. 9
+            <br /> Jl. TB. Simatupang No. 5, Jakarta Selatan
+            <br /> 12550
           </p>
           <nav className='mt-6'>
             <div className='grid grid-flow-col gap-4'>
