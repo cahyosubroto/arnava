@@ -34,9 +34,9 @@ function About() {
               with our clients is important to us, as it ensures that our
               solutions have a meaningful impact on their operations.
             </p>
-            <button className='p-4 px-12 rounded-lg bg-[#2154F5] text-white'>
+            {/* <button className='p-4 px-12 rounded-lg bg-[#2154F5] text-white'>
               About Us
-            </button>
+            </button> */}
           </div>
         </div>
       </div>

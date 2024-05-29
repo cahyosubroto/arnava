@@ -155,7 +155,7 @@ export default function Hero() {
               precision and innovation. Let us help you navigate the
               complexities of maritime operations with our service.
             </p>
-            <div className='mt-12 w-[250px] md:w-[579px] h-[60px] pl-0 md:pl-5 pr-2.5 py-5 bg-white rounded-lg justify-start items-center gap-3 inline-flex'>
+            {/* <div className='mt-12 w-[250px] md:w-[579px] h-[60px] pl-0 md:pl-5 pr-2.5 py-5 bg-white rounded-lg justify-start items-center gap-3 inline-flex'>
               <div className='w-1 md:w-5 h-5 relative'>
                 <div className='w-1 md:w-5 h-5 left-0 top-0 absolute'></div>
                 <Image
@@ -181,7 +181,7 @@ export default function Hero() {
                   Search
                 </div>
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

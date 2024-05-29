@@ -37,9 +37,9 @@ function Services() {
                 efficiency. Trust us to efficiently source and procure the ideal
                 maritime solutions for your operations.
               </p>
-              <p className='text-[#070707] pt-8 text-lg group-hover:text-white'>
+              {/* <p className='text-[#070707] pt-8 text-lg group-hover:text-white'>
                 Learn More →
-              </p>
+              </p> */}
             </div>
             <div className='group bg-white rounded-lg shadow-lg p-10 transform hover:scale-105 hover:bg-[#2154F5] transition duration-300'>
               <div className='bg-[#F2F5F9] transition duration-300 w-[100px] h-[100px] rounded-lg flex items-center justify-center p-6 group-hover:bg-[#1848DF]'>
@@ -62,9 +62,9 @@ function Services() {
                 the best sensor solutions for surveillance, navigation, or
                 safety, ensuring your operations are effective and efficient.
               </p>
-              <p className='text-[#070707] pt-8 text-lg group-hover:text-white'>
+              {/* <p className='text-[#070707] pt-8 text-lg group-hover:text-white'>
                 Learn More →
-              </p>
+              </p> */}
             </div>
             <div className='group bg-white rounded-lg shadow-lg p-10 transform hover:scale-105 hover:bg-[#2154F5] transition duration-300'>
               <div className='bg-[#F2F5F9] transition duration-300 w-[100px] h-[100px] rounded-lg flex items-center justify-center p-6 group-hover:bg-[#1848DF]'>
@@ -87,14 +87,14 @@ function Services() {
                 custom software enhances efficiency and simplifies your maritime
                 operations.
               </p>
-              <p className='text-[#070707] pt-8 text-lg group-hover:text-white'>
+              {/* <p className='text-[#070707] pt-8 text-lg group-hover:text-white'>
                 Learn More →
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
         <div className='flex flex-col w-full mt-24 text-[#2154F5] font-semibold'>
-          <div className='divider'>View All Services →</div>
+          <div className='divider'></div>
         </div>
       </section>
     </div>
