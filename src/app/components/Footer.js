@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div className='bg-[#f2f5f9]'>
       <footer className='max-w-4xl footer text-[#070707] p-10 sm:p-4 flex flex-col md:flex-row md:justify-center md:items-start mx-auto'>
-        <aside className='md:mr-20'>
+        <aside>
           <div className='mb-4'>
             <Image
               src='/logo-black.png'
@@ -15,12 +15,12 @@ function Footer() {
               alt='Arnava Logo'
             />
           </div>
-          <p className='w-60 md:w-full'>
+          <p className=''>
             Discover how Arnava can enhance maritime operations through
             streamlined procurement, advanced sensor system and software
             integration.
           </p>
-          <p className='w-60 md:w-full mt-4 font-semibold'>
+          <p className=' mt-4 font-semibold'>
             Gedung Ad Premier Office Park Lt. 9
             <br /> Jl. TB. Simatupang No. 5, Jakarta Selatan
             <br /> 12550
